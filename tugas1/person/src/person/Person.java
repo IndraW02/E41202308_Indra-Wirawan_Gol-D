@@ -28,7 +28,7 @@ public class Person {
         String stuid = input.next();
         
         System.out.print("Student Status = ");
-        String stuttatus = input.next();
+        String stustatus = input.next();
     }
     
 }
