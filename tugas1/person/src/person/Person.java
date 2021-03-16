@@ -41,10 +41,7 @@ public class Person {
 
     String getName() {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-=======
-        System.out.print("Student Status = ");
-        String stustatus = input.next();
->>>>>>> 0551dcd00883f1a7c231080fd80eca1dddd66ad7
+
     }
     
 }
