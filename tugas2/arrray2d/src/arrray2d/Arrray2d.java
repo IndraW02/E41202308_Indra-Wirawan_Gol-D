@@ -17,10 +17,10 @@ public class Arrray2d {
     public static void main(String[] args) {
         // TODO code application logic here
         String[][]huruf = {
-            {"1","2","3","4"},
-            {"5","6","7","8"},
-            {"9","10","11","12"},   
-            {"13","14","15","16"},
+            {"5","6","1","7"},
+            {"8","1","2","9"},
+            {"5","4","7","1"},   
+            {"8","3","7","5"},
         };
         
          for (int i=0;i<4;i++){
