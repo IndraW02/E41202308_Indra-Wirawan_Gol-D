@@ -8,7 +8,7 @@ import java.util.*;
 
 /**
  *
- * @author ASUS
+ * @author Indra Wirawan
  */
 public class Pengurutangenap {
 
