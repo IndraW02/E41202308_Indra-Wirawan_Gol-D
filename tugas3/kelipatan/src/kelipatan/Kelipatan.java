@@ -7,7 +7,7 @@ package kelipatan;
 
 /**
  *
- * @author ASUS
+ * @author Indra Wirawan
  */
 public class Kelipatan {
 
